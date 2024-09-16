@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b14632d52cf75e64c9e19595500cf6f8, type: 3}
+  m_Name: XPSystem
+  m_EditorClassIdentifier: 
+  levelUp: {fileID: 11400000, guid: 5d2306b610d594cd59d04cf4300501e2, type: 2}
+  levelCap: 9
+  capIncrement: 9
+  xpToLevel: 6400000040010000fe0100009e0200005c030000220600007e09000090100000c4180000101d000070210000b6350000504b0000ea51000076570000ae5b000062840000

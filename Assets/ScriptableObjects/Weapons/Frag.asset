@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a5b7a890216f643b4570ac4be59260, type: 3}
+  m_Name: Frag
+  m_EditorClassIdentifier: 
+  _name: 
+  _description: 
+  _icon: {fileID: 0}
+  prefab: {fileID: 2382765947663867683, guid: ce191e766bd3a474081e62fa3378620b, type: 3}
+  baseFrequency: 0
+  baseDamage: 1
+  baseBulletSpeed: 3
+  gunSpriteOffset: 0
+  baseReloadTime: 0
+  baseAmmoCapacity: 0
+  weaponType: 0
+  reloadSpinSpeed: 0
+  baseBulletLifetime: 0
+  baseSize: 0
+  collected: 0
+  baseShootDrag: 0

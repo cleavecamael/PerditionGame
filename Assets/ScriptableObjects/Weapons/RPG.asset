@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd674f106a5a9740b97f68195a33a78, type: 3}
+  m_Name: RPG
+  m_EditorClassIdentifier: 
+  _name: RPG
+  _description: Rocket launcher
+  _futureUpgrades: 
+  _icon: {fileID: 21300000, guid: 08d4136cbd08c5e43b57ce8490fde3f1, type: 3}
+  prefab: {fileID: 2382765947663867683, guid: f303c5387f393ee46a0695c7f62fd237, type: 3}
+  baseFrequency: 2
+  baseDamage: 60
+  baseBulletSpeed: 11
+  gunSpriteOffset: 2
+  baseReloadTime: 3
+  baseAmmoCapacity: 1
+  weaponType: 3
+  reloadSpinSpeed: 720
+  baseBulletLifetime: 1.5
+  baseSize: 1
+  shakeParameters: {x: 0.2, y: 0.1}
+  upgradePath: {fileID: 11400000, guid: 7f817c6aff352ba46a98caf53488d1aa, type: 2}
+  baseSplash: 3
+  hasFrag: 0
+  baseKnockback: 0
+  baseSplashDamage: 25
+  subBulletPrefab: {fileID: 2272255514826496016, guid: 2eeb265fa79f04a4d95eb490cf19dc5c, type: 3}
+  fragCount: 8
+  fragDepth: 1
+  fragLifetime: 2

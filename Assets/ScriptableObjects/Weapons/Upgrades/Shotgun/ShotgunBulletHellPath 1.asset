@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45f79bb997104a84c8715f8ffba611c6, type: 3}
+  m_Name: ShotgunBulletHellPath 1
+  m_EditorClassIdentifier: 
+  _upgradeName: Shotgun Bullet Hell 1
+  _description: 1.5x range<br>+10 ammo
+  _icon: {fileID: 21300000, guid: 7b98372744b493a42ae9d3af42e86984, type: 3}
+  _futureUpgrades: More pellets<br>Wider spread angle<br>Faster fire rate<br>More
+    damage
+  weapon: {fileID: 11400000, guid: 70719a821df9db04a88668f07ce80487, type: 2}
+  prerequisite: {fileID: 0}
+  lifetimeMultiplier: 1.5
+  newBulletCount: 6
+  newMaximumAngle: 60
+  additionalAmmoCapacity: 10
+  frequencyMultiplier: 1
+  damageMultiplier: 1

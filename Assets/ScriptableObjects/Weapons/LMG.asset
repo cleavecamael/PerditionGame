@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55c24933c84ee4a488c61e04c261b535, type: 3}
+  m_Name: LMG
+  m_EditorClassIdentifier: 
+  _name: LMG
+  _description: Light machine gun
+  _futureUpgrades: 
+  _icon: {fileID: 21300000, guid: c28ea408a9f579d468ba0414da8b0ee0, type: 3}
+  prefab: {fileID: 359083085048542417, guid: a19a01d513b3a484087a99bad1d9b4d1, type: 3}
+  baseFrequency: 0.1
+  baseDamage: 6
+  baseBulletSpeed: 12
+  gunSpriteOffset: 2
+  baseReloadTime: 4
+  baseAmmoCapacity: 100
+  weaponType: 2
+  reloadSpinSpeed: 720
+  baseBulletLifetime: 2
+  baseSize: 1
+  shakeParameters: {x: 0.1, y: 0.1}
+  upgradePath: {fileID: 11400000, guid: 1c1e709230785664b8a751b8b08e6b2b, type: 2}
+  baseSpread: 5
+  spreadAndDamageUpgrade: 0
+  customShootDrag: -1
+  hasFrag: 1
+  basePierceCount: 0
+  subBulletPrefab: {fileID: 2272255514826496016, guid: 51729c0942ff8394498d2750033980d2, type: 3}
+  fragCount: 5
+  fragDepth: 0
+  fragLifetime: 1

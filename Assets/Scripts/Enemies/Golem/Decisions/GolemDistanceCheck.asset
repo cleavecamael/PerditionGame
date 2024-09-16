@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b500e90e5e8889469aaf05bf0227f8c, type: 3}
+  m_Name: GolemDistanceCheck
+  m_EditorClassIdentifier: 
+  col: {fileID: 11400000, guid: 8e70cc2ea2c71d3448876b52b5149c44, type: 2}
+  pos: {fileID: 11400000, guid: 8831c7a1975189e4dad371ad5a9f83ff, type: 2}
+  distance: 1.5

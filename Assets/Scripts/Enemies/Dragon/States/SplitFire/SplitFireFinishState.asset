@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f916612a043a6574ab5fe02d8d0481a9, type: 3}
+  m_Name: SplitFireFinishState
+  m_EditorClassIdentifier: 
+  setupActions:
+  - {fileID: 11400000, guid: 3bbf5febe16d4304f86902a2db6568f7, type: 2}
+  actions: []
+  eventTriggeredActions: []
+  exitActions:
+  - {fileID: 11400000, guid: cffb9fb1199efe346865a3697499c126, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 66b5c1031c1a76d4e8eeb645fbba0b49, type: 2}
+    trueState: {fileID: 11400000, guid: 14a3718dc2726514591b286d5f53dba6, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

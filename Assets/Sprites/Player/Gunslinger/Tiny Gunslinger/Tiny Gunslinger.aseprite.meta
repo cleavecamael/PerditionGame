@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 08ed0cd7ff0796644a84627d37aaacb9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Tiny Gunslinger_Frame_0
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 165
+      width: 20
+      height: 14
+    spriteID: 839a087b581b2e04abf236746cdd59c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: 69}
+  - name: Tiny Gunslinger_Frame_1
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 187
+      width: 20
+      height: 14
+    spriteID: f5705572840acf145bf221aa1913baf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: 91}
+  - name: Tiny Gunslinger_Frame_2
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 115
+      width: 20
+      height: 15
+    spriteID: c46b7679228d6244387e1f1a41ba9fd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -78, y: 19}
+  - name: Tiny Gunslinger_Frame_3
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 138
+      width: 20
+      height: 15
+    spriteID: d794444740bf69345bf5eb1a43e100b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -78, y: 42}
+  - name: Tiny Gunslinger_Frame_4
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 209
+      width: 20
+      height: 14
+    spriteID: 52f6fa178c631264f879446636aaf277
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: 113}
+  - name: Tiny Gunslinger_Frame_5
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 134
+      width: 20
+      height: 13
+    spriteID: 176360ac46466004491329f22f686b21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 38}
+  - name: Tiny Gunslinger_Frame_6
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 155
+      width: 20
+      height: 13
+    spriteID: f44bcfe858140d04580128e74e6cc5b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 59}
+  - name: Tiny Gunslinger_Frame_7
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 176
+      width: 20
+      height: 13
+    spriteID: 3c892258ec4821b478f78769baeab58a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 80}
+  - name: Tiny Gunslinger_Frame_8
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 231
+      width: 20
+      height: 14
+    spriteID: 8695b87587ad630469732423b46e887b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: 135}
+  - name: Tiny Gunslinger_Frame_9
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 161
+      width: 20
+      height: 15
+    spriteID: 53aacb992f314ad44a4daa1d18570288
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -78, y: 65}
+  - name: Tiny Gunslinger_Frame_10
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 48
+      width: 20
+      height: 14
+    spriteID: 8ad101a1e019b26439613f81663405bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: -48}
+  - name: Tiny Gunslinger_Frame_11
+    originalName: 
+    pivot: {x: 0.2857143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 92
+      width: 21
+      height: 13
+    spriteID: ee59d1cb153bce042b12f2b4db4131eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: -4}
+  - name: Tiny Gunslinger_Frame_12
+    originalName: 
+    pivot: {x: 0.2857143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 21
+      height: 14
+    spriteID: ebe26ae91628c9a42a720ef82c3c9167
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: -92}
+  - name: Tiny Gunslinger_Frame_13
+    originalName: 
+    pivot: {x: 0.2857143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 21
+      height: 15
+    spriteID: 9eac38dcd541a1a40805a7b6bc9cdbe0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -78, y: -28}
+  - name: Tiny Gunslinger_Frame_14
+    originalName: 
+    pivot: {x: 0.2857143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 26
+      width: 21
+      height: 14
+    spriteID: f11d13b75e3aeba47af850a575012ea8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: -70}
+  - name: Tiny Gunslinger_Frame_15
+    originalName: 
+    pivot: {x: 0.3, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 184
+      width: 20
+      height: 15
+    spriteID: 41513dd954a420e4bb3dc6454dadc1f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -78, y: 86}
+  - name: Tiny Gunslinger_Frame_16
+    originalName: 
+    pivot: {x: 0.3, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 207
+      width: 20
+      height: 15
+    spriteID: 8b6b93560aef9a446a13c84909b8af80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -78, y: 109}
+  - name: Tiny Gunslinger_Frame_17
+    originalName: 
+    pivot: {x: 0.3, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 230
+      width: 20
+      height: 15
+    spriteID: 874d809f79766c24797e0b878f267477
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -78, y: 132}
+  - name: Tiny Gunslinger_Frame_18
+    originalName: 
+    pivot: {x: 0.3, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 4
+      width: 20
+      height: 15
+    spriteID: d4a823f77c8ad434d8d213b496941105
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: -94}
+  - name: Tiny Gunslinger_Frame_19
+    originalName: 
+    pivot: {x: 0.3, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 27
+      width: 20
+      height: 15
+    spriteID: 7ed9235e9813b094faf16356176ffa47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: -71}
+  - name: Tiny Gunslinger_Frame_20
+    originalName: 
+    pivot: {x: 0.3, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 50
+      width: 20
+      height: 15
+    spriteID: 6560189f692482e40bd45bc78fc8af4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: -48}
+  - name: Tiny Gunslinger_Frame_21
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 197
+      width: 20
+      height: 13
+    spriteID: 301db0e8bf374104780db60013c9ffef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 101}
+  - name: Tiny Gunslinger_Frame_22
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 70
+      width: 20
+      height: 14
+    spriteID: a1e4364d1ba207d40b425cbc6b651104
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: -26}
+  - name: Tiny Gunslinger_Frame_23
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 73
+      width: 20
+      height: 15
+    spriteID: c7f27c5d45cd4334eb62a0461fbbe530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: -23}
+  - name: Tiny Gunslinger_Frame_24
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 96
+      width: 20
+      height: 15
+    spriteID: 898d459dc92bd324e90b6cf37314bac8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -43, y: 0}
+  - name: Tiny Gunslinger_Frame_25
+    originalName: 
+    pivot: {x: 0.39130434, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 46
+      width: 23
+      height: 14
+    spriteID: 8bc07be1fe1005f45b9afb8257286127
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -75, y: -50}
+  - name: Tiny Gunslinger_Frame_26
+    originalName: 
+    pivot: {x: 0.4166667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 24
+      height: 9
+    spriteID: 21b6b7a3b829e044a82dfc6e62459251
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: -92}
+  - name: Tiny Gunslinger_Frame_27
+    originalName: 
+    pivot: {x: 0.43999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 21
+      width: 25
+      height: 8
+    spriteID: d2064dd4fef24834d9f373a0c2960af5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: -75}
+  - name: Tiny Gunslinger_Frame_28
+    originalName: 
+    pivot: {x: 0.46153846, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 37
+      width: 26
+      height: 7
+    spriteID: b60d6d68e61d6854593c36bb85b7917d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 20, y: -59}
+  - name: Tiny Gunslinger_Frame_29
+    originalName: 
+    pivot: {x: 0.48148146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 26
+      width: 27
+      height: 12
+    spriteID: 9f39497960f80b04183b9b44492340bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -71, y: -70}
+  - name: Tiny Gunslinger_Frame_30
+    originalName: 
+    pivot: {x: 0.48148146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 27
+      height: 14
+    spriteID: 5b22ce3256505ab4496c12f7b95576d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -71, y: -92}
+  - name: Tiny Gunslinger_Frame_31
+    originalName: 
+    pivot: {x: 0, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 119
+      width: 19
+      height: 15
+    spriteID: 21afdf55425023540ba3764cfeb76af2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -49, y: 19}
+  - name: Tiny Gunslinger_Frame_32
+    originalName: 
+    pivot: {x: 0, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 19
+      height: 16
+    spriteID: 9960c950e2f8bcc4da20b35fd2c9ec41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -84, y: -9}
+  - name: Tiny Gunslinger_Frame_33
+    originalName: 
+    pivot: {x: 0, y: -0.26666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 142
+      width: 19
+      height: 15
+    spriteID: a48baae0f3e192a41a3362970cdb00a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -49, y: 42}
+  - name: Tiny Gunslinger_Frame_34
+    originalName: 
+    pivot: {x: 0.2857143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 113
+      width: 21
+      height: 13
+    spriteID: dd6674a96d9f5d540a4c6755b9bec4b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 17}
+  - name: Tiny Gunslinger_Frame_35
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 218
+      width: 11
+      height: 13
+    spriteID: bb84d1ae3ca8b7841a447f20c6a3b005
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 122}
+  - name: Tiny Gunslinger_Frame_36
+    originalName: 
+    pivot: {x: 0.70000005, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 52
+      width: 10
+      height: 14
+    spriteID: 31db2d0d5a6f3ce4fb569f4f90d02815
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 15, y: -44}
+  - name: Tiny Gunslinger_Frame_37
+    originalName: 
+    pivot: {x: 0.9230769, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 239
+      width: 13
+      height: 11
+    spriteID: 462155c0996663241921bde249801999
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -9, y: 142}
+  - name: Tiny Gunslinger_Frame_38
+    originalName: 
+    pivot: {x: 1.0666666, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 90
+      width: 15
+      height: 7
+    spriteID: d86aef257ded0864f87c4a6aee80539c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: -6}
+  - name: Tiny Gunslinger_Frame_39
+    originalName: 
+    pivot: {x: 1.1333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 74
+      width: 15
+      height: 8
+    spriteID: 075329df835ee4e4d8ce8248507dd416
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: -22}
+  - name: Tiny Gunslinger_Frame_40
+    originalName: 
+    pivot: {x: 1.2, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 105
+      width: 15
+      height: 7
+    spriteID: 8d8594aa95a9f9b49814d547dbbca87f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 9}
+  - name: Tiny Gunslinger_Frame_41
+    originalName: 
+    pivot: {x: 1.2, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 120
+      width: 15
+      height: 7
+    spriteID: 02cf6a3b711a7ba47b0f21230df59260
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 24}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 200654876
+    name: Tiny Gunslinger
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Tiny Gunslinger_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 839a087b581b2e04abf236746cdd59c7
+    - name: Tiny Gunslinger_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: f5705572840acf145bf221aa1913baf9
+    - name: Tiny Gunslinger_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: c46b7679228d6244387e1f1a41ba9fd6
+    - name: Tiny Gunslinger_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: d794444740bf69345bf5eb1a43e100b3
+    - name: Tiny Gunslinger_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 52f6fa178c631264f879446636aaf277
+    - name: Tiny Gunslinger_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 176360ac46466004491329f22f686b21
+    - name: Tiny Gunslinger_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: f44bcfe858140d04580128e74e6cc5b9
+    - name: Tiny Gunslinger_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 3c892258ec4821b478f78769baeab58a
+    - name: Tiny Gunslinger_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 8695b87587ad630469732423b46e887b
+    - name: Tiny Gunslinger_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 53aacb992f314ad44a4daa1d18570288
+    - name: Tiny Gunslinger_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 8ad101a1e019b26439613f81663405bd
+    - name: Tiny Gunslinger_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: ee59d1cb153bce042b12f2b4db4131eb
+    - name: Tiny Gunslinger_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: ebe26ae91628c9a42a720ef82c3c9167
+    - name: Tiny Gunslinger_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 9eac38dcd541a1a40805a7b6bc9cdbe0
+    - name: Tiny Gunslinger_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: f11d13b75e3aeba47af850a575012ea8
+    - name: Tiny Gunslinger_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 41513dd954a420e4bb3dc6454dadc1f6
+    - name: Tiny Gunslinger_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 8b6b93560aef9a446a13c84909b8af80
+    - name: Tiny Gunslinger_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 874d809f79766c24797e0b878f267477
+    - name: Tiny Gunslinger_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: d4a823f77c8ad434d8d213b496941105
+    - name: Tiny Gunslinger_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 7ed9235e9813b094faf16356176ffa47
+    - name: Tiny Gunslinger_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 6560189f692482e40bd45bc78fc8af4d
+    - name: Tiny Gunslinger_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 301db0e8bf374104780db60013c9ffef
+    - name: Tiny Gunslinger_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: a1e4364d1ba207d40b425cbc6b651104
+    - name: Tiny Gunslinger_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: c7f27c5d45cd4334eb62a0461fbbe530
+    - name: Tiny Gunslinger_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 898d459dc92bd324e90b6cf37314bac8
+    - name: Tiny Gunslinger_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 8bc07be1fe1005f45b9afb8257286127
+    - name: Tiny Gunslinger_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 21b6b7a3b829e044a82dfc6e62459251
+    - name: Tiny Gunslinger_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: d2064dd4fef24834d9f373a0c2960af5
+    - name: Tiny Gunslinger_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: b60d6d68e61d6854593c36bb85b7917d
+    - name: Tiny Gunslinger_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 9f39497960f80b04183b9b44492340bf
+    - name: Tiny Gunslinger_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 5b22ce3256505ab4496c12f7b95576d0
+    - name: Tiny Gunslinger_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 21afdf55425023540ba3764cfeb76af2
+    - name: Tiny Gunslinger_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 9960c950e2f8bcc4da20b35fd2c9ec41
+    - name: Tiny Gunslinger_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: a48baae0f3e192a41a3362970cdb00a7
+    - name: Tiny Gunslinger_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: dd6674a96d9f5d540a4c6755b9bec4b1
+    - name: Tiny Gunslinger_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: bb84d1ae3ca8b7841a447f20c6a3b005
+    - name: Tiny Gunslinger_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 31db2d0d5a6f3ce4fb569f4f90d02815
+    - name: Tiny Gunslinger_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 462155c0996663241921bde249801999
+    - name: Tiny Gunslinger_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: d86aef257ded0864f87c4a6aee80539c
+    - name: Tiny Gunslinger_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 075329df835ee4e4d8ce8248507dd416
+    - name: Tiny Gunslinger_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 8d8594aa95a9f9b49814d547dbbca87f
+    - name: Tiny Gunslinger_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: -64
+        y: -96
+        width: 192
+        height: 192
+      spriteId: 02cf6a3b711a7ba47b0f21230df59260
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 32}

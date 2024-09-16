@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f916612a043a6574ab5fe02d8d0481a9, type: 3}
+  m_Name: EyeAttacking
+  m_EditorClassIdentifier: 
+  setupActions:
+  - {fileID: 11400000, guid: 61a3176130fd61c4da3c8f5cf17a12a1, type: 2}
+  - {fileID: 11400000, guid: 198e69b070ba9e8418c2253142e42072, type: 2}
+  actions: []
+  eventTriggeredActions: []
+  exitActions: []
+  transitions:
+  - decision: {fileID: 11400000, guid: edce78fa5f3853548b1accfdf80e42b2, type: 2}
+    trueState: {fileID: 11400000, guid: 1ee37b44d1ea89d4fa6471494e58a704, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  - decision: {fileID: 11400000, guid: 63ff5a6b7f5036f4695d0e9a39e10cc1, type: 2}
+    trueState: {fileID: 11400000, guid: 027547d3d549b02429abb803ed548bb3, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  - decision: {fileID: 11400000, guid: 5108cb733a10cc34c82a62c228318eb4, type: 2}
+    trueState: {fileID: 11400000, guid: aee1007f5530d754c812033f6ba8cf6c, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

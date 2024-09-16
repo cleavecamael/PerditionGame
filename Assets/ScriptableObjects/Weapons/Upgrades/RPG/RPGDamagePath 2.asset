@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3973d74784f70044c8d355191744fb19, type: 3}
+  m_Name: RPGDamagePath 2
+  m_EditorClassIdentifier: 
+  _upgradeName: RPG Damage 2
+  _description: Spawns frag upon explosion
+  _icon: {fileID: 21300000, guid: c37b51130c34c0b4cb789d1cffac0cb4, type: 3}
+  _futureUpgrades: More splash damage
+  weapon: {fileID: 11400000, guid: 76c2daed1e7156146a7750a74f8489d5, type: 2}
+  prerequisite: {fileID: 11400000, guid: afafcba332612d2479b12c832ef706a6, type: 2}
+  splashMultiplier: 1
+  damageMultiplier: 1
+  hasFrag: 1
+  splashDamageMultiplier: 1

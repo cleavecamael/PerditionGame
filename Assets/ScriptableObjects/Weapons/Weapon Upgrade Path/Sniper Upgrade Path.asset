@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a20d972cef8f434da5de58f1dcecf2d, type: 3}
+  m_Name: Sniper Upgrade Path
+  m_EditorClassIdentifier: 
+  upgrade11: {fileID: 11400000, guid: ac3769cfa2020684b9433887df796a37, type: 2}
+  upgrade12: {fileID: 11400000, guid: 5753c4a28a4469e4aa823d41c003d7c3, type: 2}
+  upgrade13: {fileID: 11400000, guid: 5561b5c4bb0667a499e7458f6c4470b1, type: 2}
+  upgrade21: {fileID: 11400000, guid: be92b301d72470748a34351f178d9da1, type: 2}
+  upgrade22: {fileID: 11400000, guid: c2865c849e1ff3f46b3cb2247f74ffa6, type: 2}
+  upgrade23: {fileID: 11400000, guid: db30f168ba9f94b41b3c81032cd5c48b, type: 2}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f709d99979944e49a2a4746ba62e07a, type: 3}
+  m_Name: UpgradeMasterList
+  m_EditorClassIdentifier: 
+  upgradeOptions:
+  - weaponUpgrade: {fileID: 11400000, guid: 556e05b0c3ff785409417b6924010c62, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 54e576e686826f945b739d398a0def60, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 28d58fe897fa00c4dbcdade579d471ba, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: f3cb1cf46a38e0744893c94cea1cb7f0, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 88f2bdf41f4645348a79f25eba46534c, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 02c79a113fa3b4e47868e4433bcb9a2f, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 959ebd0d8d98f9b4fb390451cb73e77d, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: f9c5de7bf005ce5458c1427b83b26be7, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 1373b8b7095e438498253ece8c568d6e, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: ecc7f90808a1a5f47adbe00b04399bc8, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: d30713e00b297d6418b817bcfccf7eb7, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: ffdeb8196cb3daa4a90dd905803a9d46, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: ac3769cfa2020684b9433887df796a37, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 5753c4a28a4469e4aa823d41c003d7c3, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 5561b5c4bb0667a499e7458f6c4470b1, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: be92b301d72470748a34351f178d9da1, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: c2865c849e1ff3f46b3cb2247f74ffa6, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: db30f168ba9f94b41b3c81032cd5c48b, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 8b954fc44b4442846a958f3e81bf029a, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 1083dbde11eacab4ca71e0dea4466b42, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 33c6c79cfeaecd544906363845700842, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 449b88f7c7edf8343a2a724a8bbba86d, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 595cdccb8529fab4cbe321bc8a818e35, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 9e2816ee1e37e9f468405e0aedcfb4af, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: afafcba332612d2479b12c832ef706a6, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: bb7e333282c1c7d49a66edcd5268a07f, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 61a1ad0b6b6882f4b9a39770ce9a1fdd, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: 83a583ebdb357004e8c94f8bf9a53429, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: a16bfc8e4a314e94dad8383595f68ab2, type: 2}
+    available: 1
+  - weaponUpgrade: {fileID: 11400000, guid: a7fc3e186f842d14c8bcf424cd585712, type: 2}
+    available: 1

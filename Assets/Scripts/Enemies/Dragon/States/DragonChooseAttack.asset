@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f916612a043a6574ab5fe02d8d0481a9, type: 3}
+  m_Name: DragonChooseAttack
+  m_EditorClassIdentifier: 
+  setupActions:
+  - {fileID: 11400000, guid: 5cfae1e9a87c5394eb402f2bce139653, type: 2}
+  - {fileID: 11400000, guid: cffb9fb1199efe346865a3697499c126, type: 2}
+  actions: []
+  eventTriggeredActions: []
+  exitActions: []
+  transitions:
+  - decision: {fileID: 11400000, guid: 72cd5097fd4e2fd40802e02944dd6db4, type: 2}
+    trueState: {fileID: 11400000, guid: 14a3718dc2726514591b286d5f53dba6, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  - decision: {fileID: 11400000, guid: 6557896350c0030409ea01a2dfd7e8dc, type: 2}
+    trueState: {fileID: 11400000, guid: ac85e2f2e7a2b5f4fa88ecc1dd8c9ee1, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  - decision: {fileID: 11400000, guid: d799592da6f65e4478cc29faab31c39d, type: 2}
+    trueState: {fileID: 11400000, guid: 5097bdd79f7b1b54ea1d0e4500839601, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  - decision: {fileID: 11400000, guid: 9e9260a3cb11d614096c68968133b19b, type: 2}
+    trueState: {fileID: 11400000, guid: 114032be12ce19447b7f2eaf1ee38a9e, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  - decision: {fileID: 11400000, guid: c66524e11765694499569ef791b36532, type: 2}
+    trueState: {fileID: 11400000, guid: bd7baef3e0115bf4c901582b5e50af68, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  - decision: {fileID: 11400000, guid: 5c1abc3f01b9ef24c81965182fa1bf79, type: 2}
+    trueState: {fileID: 11400000, guid: cb0819ff142d033478893837aa0ad257, type: 2}
+    falseState: {fileID: 11400000, guid: 84b4cec4a19511445a702001139e6839, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

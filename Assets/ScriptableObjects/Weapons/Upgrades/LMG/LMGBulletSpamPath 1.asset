@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05a3c46ff1389e745b0641c1a3943286, type: 3}
+  m_Name: LMGBulletSpamPath 1
+  m_EditorClassIdentifier: 
+  _upgradeName: LMG Bullet Spam 1
+  _description: 1.5x fire rate
+  _icon: {fileID: 21300000, guid: 24b1453224246ef4a9a0208c41809e86, type: 3}
+  _futureUpgrades: More ammo<br>Bullet spawns frag<br>More damage
+  weapon: {fileID: 11400000, guid: d700172d15e4aed4ebf559093a22a488, type: 2}
+  prerequisite: {fileID: 0}
+  frequencyMultiplier: 0.8
+  additionalAmmoCapacity: 0
+  spreadAndDamageUpgrade: 0
+  damageMultiplier: 1
+  hasFrag: 0

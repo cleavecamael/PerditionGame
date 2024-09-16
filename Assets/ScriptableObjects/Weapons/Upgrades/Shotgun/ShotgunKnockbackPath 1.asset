@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6895910aa5a034e9295f360e3babc5, type: 3}
+  m_Name: ShotgunKnockbackPath 1
+  m_EditorClassIdentifier: 
+  _upgradeName: Shotgun Knockback 1
+  _description: Bullet temporarily slows enemy
+  _icon: {fileID: 21300000, guid: 416e43edf57c18b48a9cbba6f843abe2, type: 3}
+  _futureUpgrades: Bullet knockback enemies<br>Bullet temporarily stuns enemy
+  weapon: {fileID: 11400000, guid: 70719a821df9db04a88668f07ce80487, type: 2}
+  prerequisite: {fileID: 0}
+  knockbackValue: 0
+  stunValue: 0
+  slowValue: 2

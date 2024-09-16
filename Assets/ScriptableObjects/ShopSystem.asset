@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f6d7298bf7d148569b5f006b21676da, type: 3}
+  m_Name: ShopSystem
+  m_EditorClassIdentifier: 
+  costHealth: 100
+  costHealth1: 250
+  costHealth2: 550
+  costHealth3: 1000
+  costMovement: 100
+  costMovement1: 250
+  costMovement2: 550
+  costMovement3: 1000
+  costMagnet: 100
+  costMagnet1: 250
+  costMagnet2: 550
+  costMagnet3: 1000
+  maxLevelHealth: 4
+  maxLevelMovement: 4
+  maxLevelMagnet: 4
+  buffHealth: 10
+  buffMovement: 1
+  buffMagnet: 1

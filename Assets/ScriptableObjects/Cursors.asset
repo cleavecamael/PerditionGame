@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bef86efe9d6ce47af52b2eb5c84665, type: 3}
+  m_Name: Cursors
+  m_EditorClassIdentifier: 
+  cursors:
+  - cursor: {fileID: 2800000, guid: 34f55556862cbb046b5994cbe57a04d8, type: 3}
+    hotspot: {x: 0, y: 0}
+    context: 0
+  - cursor: {fileID: 2800000, guid: f45ef45bd70f347e2834fae6c2b34178, type: 3}
+    hotspot: {x: 16, y: 16}
+    context: 1
+  sceneToCursorMappings:
+  - context: 1
+    scene: World-1
+  - context: 0
+    scene: LevelUp
+  - context: 1
+    scene: Tutorial-World
+  - context: 1
+    scene: World-2
